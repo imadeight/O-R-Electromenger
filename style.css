@@ -499,7 +499,7 @@ header ul li a:hover{
   }
   .circle{
     clip-path: circle(400px at center bottom);
-    margin-top: 200px;
+    margin-top: 250px;
   }
   .sci{
     background: #ff578b;
@@ -552,7 +552,7 @@ header ul li a:hover{
     padding: 30px;
   }
   .map{
-    min-height: 300px;
+    min-height: 200px;
     padding: 0;
   }
 
