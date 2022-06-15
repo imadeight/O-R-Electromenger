@@ -297,7 +297,6 @@ header ul li a:hover{
   padding: 10px;
   box-shadow: 0 15px 30px rgba(0,0,0,0.1);
   border-radius: 10px;
-  z-index: 4;
 }
 
 .services .box .iconBx{
