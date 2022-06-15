@@ -374,8 +374,6 @@ header ul li a:hover{
 
 /*** Contact us section ***/
 .sectionContact{
-  /**background: linear-gradient(90deg,#0e3959 0%,#0e3959 30%,#4dcaff 30%,#4dcaff 100%);*/
-  /**border-top: solid 10px #0e3959;**/
   background: #4dcaff;
 }
 .contactUs{
