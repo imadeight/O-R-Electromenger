@@ -600,7 +600,7 @@ img .leboncoin{
   position: absolute;
   width: 100px;
   height: 100px;
-  background: url('img/newlogoWhite2.png');
+  background: url('img/newlogoWhite2.PNG');
   background-size: cover;
   border-radius: 50%;
 }
