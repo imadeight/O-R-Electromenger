@@ -47,7 +47,7 @@ function changeColor(color){
 }
 
 function originalTxt(){
-  var origineTxt = "<span class='text' ><b style='color:#4dcaff; font-size:1.4em;'>AM faitout</b> est une entreprise spécialisée dans plusieurs domaines tels que : <b>dépannage électroménager, travaux de rénovation intérieure, aménagement et décoration jardins, travaux d'électricité </b>ainsi que des travaux de <b>plomberie</b>.<br> </span >";
+  var origineTxt = "<span class='text' ><b style='color:#4dcaff; font-size:1.4em;'>O-R Electroménager</b> est une entreprise spécialisée dans la réparation d'appareils électoménagers tels que : <b>Les machines à laver, les laves vaisselle, les micro-ondes </b>ainsi que tout autre <b>appareil électroménager</b>.<br> </span >";
   var slogan = "Redonnez vie aux choses qui vous tiennent à coeur";
   const text = document.querySelector('.text');
   const sl = document.querySelector('.highlightTxt');
@@ -57,7 +57,7 @@ function originalTxt(){
 
 function bioTxt(){
   var bioTxt = 'En choisissant de réparer votre appareil, vous participez activement à la préservation des ressources naturels de la planet. Notre mission : vous faire adopter le réflexe de réparer avant de jeter !';
-  var bioSlogan = "Réparer, Rénover et Décorer";
+  var bioSlogan = "Réparer, Rénover vos appareils électoménagers";
   const text = document.querySelector('.text');
   const sl = document.querySelector('.highlightTxt');
   text.innerHTML = bioTxt;
