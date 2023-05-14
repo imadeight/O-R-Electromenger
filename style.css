@@ -48,7 +48,7 @@ header.sticky .telNavbarSticky a{
 }
 header .logo{
   position: relative;
-  max-width: 80px;
+  max-width: 180px;
 }
 header ul{
   position: relative;
@@ -297,6 +297,7 @@ header ul li a:hover{
   padding: 10px;
   box-shadow: 0 15px 30px rgba(0,0,0,0.1);
   border-radius: 10px;
+
 }
 
 .services .box .iconBx{
@@ -599,7 +600,7 @@ img .leboncoin{
   position: absolute;
   width: 100px;
   height: 100px;
-  background: url('img/newlogoWhite2.PNG');
+  background: url('img/newlogoWhite2.png');
   background-size: cover;
   border-radius: 50%;
 }
@@ -735,7 +736,7 @@ img .leboncoin{
     padding: 20px;
   }
   header .logo{
-    max-width: 60px;
+    max-width: 160px;
   }
   header ul{
     display: none;
